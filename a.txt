@@ -13,5 +13,8 @@ third change updated by manager in python_project by surya itself
 >>>>>>> 65ff443af74cd5b9d969decbf53c75a68050b18e
 
 content final update by manager in python_project 
-confirm latest changes and push it aagin if u have any changes furtrher 
+confirm latest changes and push it aagin if u have any changes furtrher
 
+
+conetent modified for manuaal merge by surya  
+content final update by surya in python_project 
